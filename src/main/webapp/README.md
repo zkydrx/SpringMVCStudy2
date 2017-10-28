@@ -6,5 +6,7 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
-访问路径：http://localhost:8080/product_input.action
-访问效果图在image 中的图1 和图2.
+- 访问路径：http://localhost:8080/product_input.action
+- 访问效果图在image 中的图1 和图2.
+
+- SpringMVCStudy1和SpringMVCStudy2是SpringMVC的基本介绍。
